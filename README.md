@@ -1,4 +1,5 @@
-wallaby-backend-http
-====================
+Wallaby backend for http(s)
+===========================
 
-Wallaby backend for http(s) resources.
+This package provides some helper classes for asynchronous http connections (using twisted).
+
