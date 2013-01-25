@@ -5,7 +5,7 @@ from setuptools import setup, find_packages
 import os
 
 setup(name='wallaby-backend-http',
-      version='0.1.1',
+      version='0.1.2',
       url='https://github.com/FreshXOpenSource/wallaby-backend-http',
       author='FreshX GbR',
       author_email='wallaby@freshx.de',
